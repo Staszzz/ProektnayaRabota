@@ -1,0 +1,28 @@
+2024-02-21 01:00:40,663 INFO p.BreedingCoursesPage [main] check random card courses success
+2024-02-21 01:00:47,082 INFO p.BreedingCoursesPage [main] check count courses. Cards = 10
+2024-02-21 01:02:56,239 INFO p.CalendarEventsPage [main] check visibility cards event success
+2024-02-21 01:02:57,607 INFO p.CalendarEventsPage [main] Date events are earlier than the current one success
+2024-02-21 01:04:38,078 INFO p.CalendarEventsPage [main] Open webinars sorted success
+2024-02-21 01:04:38,987 INFO p.CalendarEventsPage [main] Check 'Open webinars' on everyone cards  success
+2024-02-21 01:05:23,838 INFO p.BreedingCoursesPage [main] check random card courses success
+2024-02-21 01:05:34,676 INFO p.BreedingCoursesPage [main] check count courses. Cards = 10
+2024-02-21 19:44:35,632 INFO p.CalendarEventsPage [main] check visibility cards event success
+2024-02-21 19:44:36,455 INFO p.CalendarEventsPage [main] Date events are earlier than the current one success
+2024-02-21 19:46:06,628 INFO p.CalendarEventsPage [main] Open webinars sorted success
+2024-02-21 19:46:07,354 INFO p.CalendarEventsPage [main] Check 'Open webinars' on everyone cards  success
+2024-02-21 19:46:37,769 INFO p.BreedingCoursesPage [main] check count courses. Cards = 10
+2024-02-21 19:53:57,209 INFO p.CalendarEventsPage [main] Open webinars sorted success
+2024-02-21 19:53:57,979 INFO p.CalendarEventsPage [main] Check 'Open webinars' on everyone cards  success
+2024-02-21 20:00:02,999 INFO p.CalendarEventsPage [main] check visibility cards event success
+2024-02-21 20:00:03,782 INFO p.CalendarEventsPage [main] Date events are earlier than the current one success
+2024-02-21 20:01:41,741 INFO p.CalendarEventsPage [main] Open webinars sorted success
+2024-02-21 20:01:42,298 INFO p.CalendarEventsPage [main] Check 'Open webinars' on everyone cards  success
+2024-02-21 20:02:36,014 INFO p.BreedingCoursesPage [main] check count courses. Cards = 10
+2024-02-21 20:09:11,982 INFO p.BreedingCoursesPage [main] check random card courses success
+2024-02-21 20:09:18,679 INFO p.BreedingCoursesPage [main] check count courses. Cards = 10
+2024-02-21 20:20:23,211 INFO p.BreedingCoursesPage [main] check random card courses success
+2024-02-21 20:20:32,833 INFO p.BreedingCoursesPage [main] check count courses. Cards = 10
+2024-02-21 20:22:17,314 INFO p.CalendarEventsPage [main] check visibility cards event success
+2024-02-21 20:22:17,923 INFO p.CalendarEventsPage [main] Date events are earlier than the current one success
+2024-02-21 20:23:58,112 INFO p.CalendarEventsPage [main] Open webinars sorted success
+2024-02-21 20:23:58,983 INFO p.CalendarEventsPage [main] Check 'Open webinars' on everyone cards  success
